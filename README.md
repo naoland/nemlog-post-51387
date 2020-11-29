@@ -1,7 +1,5 @@
 - [簡単プログラミング！XEMの現在価格を表示しよう](https://nemlog.nem.social/blog/51387)
-- [nemlog 記事とプロフィール](https://nemlog.nem.social/profile/5648)
-- [サンプルコード index.html](/index.html)
-- [Home に戻る](/README.md)
+- [nemlog記事とプロフィール](https://nemlog.nem.social/profile/5648)
 - [nemlog投稿リポジトリに移動](https://github.com/naoland/nemlog-posts)
 
 
@@ -167,7 +165,7 @@ https://udemy.benesse.co.jp/development/web/typescript.html
 
 p.s. 少しでもためになったと思われましたら、投げ銭お願いします！ モチベーションがアップします！
 
-関連リンク
+関連情報へのリンク
 
 -   https://zaif-api-document.readthedocs.io/ja/latest/PublicAPI.html#id22
 -   http://e-words.jp/w/API.html
